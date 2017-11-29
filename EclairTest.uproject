@@ -5,6 +5,7 @@
 	"Description": "",
 	"TargetPlatforms": [
 		"MacNoEditor",
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"HTML5"
 	]
 }
